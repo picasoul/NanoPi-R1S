@@ -2,9 +2,9 @@
 
 name: NanoPi-R1S H5 FriendlyWrt Build
 
-on:
-  push:
-    branches: 
+#on:
+#  push:
+#    branches: 
       - master
   # schedule:
   #   - cron: 0 20 * * *
